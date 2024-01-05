@@ -1,0 +1,41 @@
+/* Write your CSS code here */
+.bg-coontainer {
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+  margin-right: 220px;
+  margin-left: 250px;
+}
+.insta-image {
+  height: 7vh;
+  width: 3vw;
+  border-radius: 16px;
+  margin-right: 20px;
+}
+.linkedin-image {
+  height: 7vh;
+  width: 3vw;
+  border-radius: 16px;
+  margin-right: 20px;
+}
+.mail-image {
+  height: 7vh;
+  width: 3vw;
+  border-radius: 16px;
+}
+.thery-con {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  margin-right: 220px;
+  margin-left: 250px;
+}
+.pr {
+  color: #475569;
+  font-size: 18px;
+  margin-right: 20px;
+}
